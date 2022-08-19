@@ -11,6 +11,22 @@
 - css
 
 -## Getting Started
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### `git clone git@github.com:akbari4yaseen/html-css-portfolio.git`
+
+### Install
+
+### `npm install`
+
+### Run tests
+
+In the project directory, you can open index.html
 ## Author
 
 👤 **bernabas yosef**
@@ -37,5 +53,5 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
